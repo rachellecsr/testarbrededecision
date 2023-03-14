@@ -4,4 +4,4 @@ const personnes = [
     {nom: 'Cyril' ,age: 26 , emploi: 'controleur' },
     {nom: 'Marie' ,age: 23 , emploi: 'agent immobilier' }
 ]
-
+function
